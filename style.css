@@ -1,0 +1,12 @@
+div{
+ display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+}
+header {
+  width: 100%;
+    text-align: center;
+}
+canvas {
+  margin: 0 auto;
+}
